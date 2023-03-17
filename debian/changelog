@@ -1,8 +1,10 @@
-tinycdb (0.78+u001) UNRELEASED; urgency=medium
+tinycdb (0.78-1deepin) unstable; urgency=medium
 
   * update
 
- -- Michael Tokarev <mjt@tls.msk.ru>  Mon, 25 Apr 2022 10:01:05 +0800
+  * 
+
+ -- Yutao Meng <mengyutao@uniontech.com>  Fri, 17 Mar 2023 13:41:24 +0800
 
 tinycdb (0.78) unstable; urgency=low
 
